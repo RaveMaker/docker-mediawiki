@@ -4,3 +4,4 @@ images/
 backup/
 database/
 LocalSettings.php
+.env
