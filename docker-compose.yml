@@ -19,6 +19,7 @@ services:
 
   mediawiki:
     build: .
+    image: ${podName}/mediawiki
     depends_on:
       - mariadb
     restart: always
