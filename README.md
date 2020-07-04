@@ -2,7 +2,7 @@
 Dockerfile for MediaWiki with mSMTP client.
 
 docker-compose file includes:
- - Traefik support
+ - MediaWiki
  - MariaDB
  - Backup
  - Docker Swarm support
